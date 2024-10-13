@@ -6,7 +6,7 @@ This project provides an in-depth analysis of IPL matches from 2008 to 2022 usin
 You can view the live project dashboard here: [IPL Analysis Power BI Dashboard](https://app.powerbi.com/groups/me/dashboards/bfd969d0-5719-4713-8f36-830c350d88bd?experience=power-bi).
 
 ## 🖼️ Dashboard Preview
-![IPL Analysis Dashboard](./A_detailed_screenshot_of_a_Power_BI_dashboard_anal.png)
+![IPL Analysis Dashboard](https://github.com/Priyanshu9528/IPL-Analysis/blob/main/IPL%20Analysis%20Dashboard.png)
 
 ## 📝 Project Description
 This project aims to provide a comprehensive analysis of the Indian Premier League (IPL) from 2008 to 2022. It covers several aspects, including:
